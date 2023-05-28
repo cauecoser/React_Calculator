@@ -1,13 +1,13 @@
 import React from 'react'
 import './App.css'
-import Butt from './components/butt/butt'
-
+import KeyBoard from './components/KeyBoard/KeyBoard'
 
 function App() {
 
+
   return (
     <>
-      <Butt name='5'></Butt>
+      <KeyBoard></KeyBoard>      
     </>
   )
 }

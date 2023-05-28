@@ -1,0 +1,13 @@
+.CalcBody {
+    width: 24rem;
+    box-sizing: border-box;
+    padding: 1rem;
+    border: solid 3px #000;
+    border-radius: 0.5rem;
+    background-color: orangered;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+  }
